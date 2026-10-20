@@ -1,0 +1,10 @@
+{
+  "name": "AnglerLog - Diario di Pesca Personale",
+  "description": "Diario di pesca personale offline: Logger GPS di spot segreti, registro catture, previsioni maree, meteo e gestione attrezzatura.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
